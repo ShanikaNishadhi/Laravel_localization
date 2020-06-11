@@ -24,7 +24,7 @@
                                 <img src="{{asset('img/us.png')}}"> English
                                 @break
                                 @case('ger')
-                                <img src="{{asset('img/ger.png')}}"> German
+                                <img src="{{asset('img/de.png')}}"> German
                                 @break
                                 @case('in')
                                 <img src="{{asset('img/in.png')}}"> Hindi
@@ -45,7 +45,7 @@
                         </a>
                         <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
                             <a class="dropdown-item" href="lang/en"><img src="{{asset('img/us.png')}}"> English</a>
-                            <a class="dropdown-item" href="lang/ger"><img src="{{asset('img/ger.png')}}"> German</a>
+                            <a class="dropdown-item" href="lang/de"><img src="{{asset('img/de.png')}}"> German</a>
                             <a class="dropdown-item" href="lang/in"><img src="{{asset('img/in.png')}}"> Hindi</a>
                             <a class="dropdown-item" href="lang/fr"><img src="{{asset('img/fr.png')}}"> French</a>
                             <a class="dropdown-item" href="lang/es"><img src="{{asset('img/es.png')}}"> Spanish</a>
